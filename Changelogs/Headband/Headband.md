@@ -36,6 +36,8 @@ Very first version of the Headband
  ## Headband no.3
  
 - Re-meshed the top part of the front
+- Adjusted the Knob tolerances
+- Adjusted the Strap holes on the rear part
 ![1](/Changelogs/Headband/img/3/1.png)
 
  ## Headband no.4
