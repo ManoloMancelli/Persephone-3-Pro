@@ -39,6 +39,7 @@ Very first version of the Headband
 - Adjusted the Knob tolerances
 - Adjusted the Strap holes on the rear part
 ![1](/Changelogs/Headband/img/3/1.png)
+![1](/Changelogs/Headband/img/3/2.png)
 
  ## Headband no.4
 - Add mounting points to the top part of headband
