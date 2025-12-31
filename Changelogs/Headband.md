@@ -6,15 +6,15 @@ Very first version of the Headband
 
 - 3D Scaned the Mirage Solo headband
 - Processed the 3D scan for CAD use
-![1](/Mechanical/Headband/img/0/1.jpeg)
+![1](/Changelogs/Headband/img/0/1.jpeg)
 
-![1](/Mechanical/Headband/img/0/2.png)
+![1](/Changelogs/Headband/img/0/2.png)
 
-![1](/Mechanical/Headband/img/0/3.png)
+![1](/Changelogs/Headband/img/0/3.png)
 
-![1](/Mechanical/Headband/img/0/4.png)
+![1](/Changelogs/Headband/img/0/4.png)
 
-![1](/Mechanical/Headband/img/0/5.png)
+![1](/Changelogs/Headband/img/0/5.png)
 
 ## Headband no.1
 
