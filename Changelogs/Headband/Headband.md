@@ -25,7 +25,7 @@ Very first version of the Headband
  ## Headband no.2
  
  - Further refined the whole Headband
- - Added geared straps
+ - Made initial geared strap
  - Re-meshed the back mechanism
  - Added the knob and gear
  
