@@ -34,5 +34,8 @@ Very first version of the Headband
  
  ## Headband no.3
  
-- Add gear teeth to the straps
+- Added gear teeth to the straps
 - Re-meshed the top part of the front
+
+ ## Headband no.4
+- Add mounting points to the top part of headband
