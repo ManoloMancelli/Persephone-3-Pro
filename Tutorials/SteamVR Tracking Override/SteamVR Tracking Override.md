@@ -32,7 +32,7 @@ A simple way to make any kind of DiY VR device work with Lighthouse tracking via
 - Close SteamVR if it's running
 - Go to C:\Program Files (x86)\Steam\config
 - Open steamvr.VRSETTINGS file with text editor (notepad is fine)
-- Add below text to the file
+- Add below text to the file (make sure to put your tracker name which you've wrote down
 
 ```
    "TrackingOverrides" : {
