@@ -28,13 +28,13 @@ Very first version of the Headband
  - Made initial geared strap
  - Re-meshed the back mechanism
  - Added the knob and gear
+ - Added gear teeth to the strap
  
  ![1](/Changelogs/Headband/img/2/0.png)
  ![1](/Changelogs/Headband/img/2/1.png)
  
  ## Headband no.3
  
-- Added gear teeth to the straps
 - Re-meshed the top part of the front
 ![1](/Changelogs/Headband/img/3/1.png)
 
