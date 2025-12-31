@@ -12,7 +12,7 @@ A simple way to make any kind of DiY VR device work with Lighthouse tracking via
 - Connect your VR headset and make sure it works properly
 - Go trough the Room Setup
 - Connect the SteamVR Dongle and pair the tracker
-- 
+- In SteamVR go to Devices -> Manage Trackers
 
 ![1](/Tutorials/SteamVR%20Tracking%20Override/img/0.png)
 
