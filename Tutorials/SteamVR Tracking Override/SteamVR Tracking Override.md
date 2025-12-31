@@ -20,7 +20,7 @@ A simple way to make any kind of DiY VR device work with Lighthouse tracking via
 
 ![1](/Tutorials/SteamVR%20Tracking%20Override/img/1.png)
 
--
+- Click on the "Tracker Role" and select "Disabled"
 
 ![1](/Tutorials/SteamVR%20Tracking%20Override/img/2.png)
 
