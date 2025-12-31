@@ -34,7 +34,7 @@ A simple way to make any kind of DiY VR device work with Lighthouse tracking via
 - Open steamvr.VRSETTINGS file with text editor (notepad is fine)
 - Add below text to the file
 
-'''
+```
    "TrackingOverrides" : {
       "/devices/htc/vive_trackerLHR-F7DF1BC6" : "/user/head"
-'''
+```
