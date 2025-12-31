@@ -2,6 +2,8 @@
 
 Completely DiY Optical solution for the Persephone 3 Pro Headset
 
+## Lense Setup no.1
+
 ### Lense "stackup"
 
 Optical "stackup" consists of two fresnel lenses per eye.
