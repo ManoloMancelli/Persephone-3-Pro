@@ -25,4 +25,8 @@ Persephone 3 Pro is a DiY SteamVR headset which features full Lighthouse trackin
 - #### [Waveshare RP2040 Zero Pinout](/Hardware/Waveshare%20RP2040%20Zero%20Pinout.png)
 - #### [Waveshare RP2040 Zero Wiring](/Hardware/Wiring.png)
 - #### [Face Tracking 1](https://www.reddit.com/r/VRchat/comments/1jbjmhd/25_wireless_face_tracking_for_vrchat/)
+- #### [Face Tracking 2](https://steamcommunity.com/sharedfiles/filedetails/?id=3493715993)
+- #### [Face Tracking 3](https://github.com/Project-Babble/ProjectBabble)
 - #### [Eye Tracking 1](https://hackaday.com/2023/08/05/diy-eye-tracking-for-vr-headsets-from-a-to-z/)
+- #### [Eye Tracking 2](https://docs.eyetrackvr.dev/getting_started/intro)
+
