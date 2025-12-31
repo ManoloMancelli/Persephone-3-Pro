@@ -10,3 +10,4 @@ First customized PCB. Features angled MIPI display connectors for wider IPD rang
 FFC ribbons are now perfectly safe from tearing since there is no stress from angling the panels.
 
 ## IPD PCB no. 3
+New, experimental PCB which now features built-in gyroscope module
