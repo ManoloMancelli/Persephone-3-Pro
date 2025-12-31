@@ -9,7 +9,7 @@ Optical "stackup" consists of two fresnel lenses per eye.
  - 70mm diameter lense with 30mm focal lenght
  - 70mm diameter lense with 40mm focal lenght
  
- Complete lense "stack" has focal lenght at about 14.7mm
+ Complete lense "stack" has focal lenght at about 14.7mm and thickness at about 3mm
 
 ### Lense "trim"
 
