@@ -18,11 +18,14 @@ Very first version of the Headband
 
 ## Headband no.1
 
- - Refine the CAD model to simple shape
- - Rework the headband so that it fits VectorGear
+ - Refined the CAD model to simpler shape
  
  ![1](/Changelogs/Headband/img/1/1.png)
  
  ## Headband no.2
+ 
+ - Further refined the whole Headband
+ 
+ ## Headband no.3
  
  - Add gear teeth to the straps
