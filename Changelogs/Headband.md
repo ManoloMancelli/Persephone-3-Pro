@@ -21,7 +21,7 @@ Very first version of the Headband
  - Refine the CAD model to simple shape
  - Rework the headband so that it fits VectorGear
  
- ![1](/Mechanical/Headband/img/1st/1.png)
+ ![1](/Changelogs/Headband/img/1/1.png)
  
  ## Headband no.2
  
