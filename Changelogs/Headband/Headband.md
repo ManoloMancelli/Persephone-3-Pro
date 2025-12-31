@@ -38,9 +38,10 @@ Very first version of the Headband
 - Re-meshed the top part of the front
 - Adjusted the Knob tolerances
 - Adjusted the Strap holes on the rear part
+- Added the guide ridges on the strap
 ![1](/Changelogs/Headband/img/3/1.png)
 ![1](/Changelogs/Headband/img/3/2.png)
+![1](/Changelogs/Headband/img/3/3.png)
 
  ## Headband no.4
 - Add mounting points to the top part of headband
-- Fix the strap rails
