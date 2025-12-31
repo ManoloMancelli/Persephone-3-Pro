@@ -37,4 +37,7 @@ A simple way to make any kind of DiY VR device work with Lighthouse tracking via
 ```
    "TrackingOverrides" : {
       "/devices/htc/vive_trackerLHR-F7DF1BC6" : "/user/head"
+   },
 ```
+
+![1](/Tutorials/SteamVR%20Tracking%20Override/img/4.png)
