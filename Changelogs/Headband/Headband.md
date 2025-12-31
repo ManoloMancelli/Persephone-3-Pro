@@ -26,10 +26,11 @@ Very first version of the Headband
  
  - Further refined the whole Headband
  - Added geared straps
- - 
+ - Re-meshed the back mechanism
+ - Added the knob and gear
  
- ![1](/Changelogs/Headband/img/1/1.png)
- ![1](/Changelogs/Headband/img/1/1.png)
+ ![1](/Changelogs/Headband/img/2/0.png)
+ ![1](/Changelogs/Headband/img/2/1.png)
  
  ## Headband no.3
  
