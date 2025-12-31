@@ -40,3 +40,4 @@ Very first version of the Headband
 
  ## Headband no.4
 - Add mounting points to the top part of headband
+- Fix the strap rails
