@@ -5,8 +5,8 @@ Persephone 3 Pro is a DiY SteamVR headset which features full Lighthouse trackin
 ### Changelogs
 - #### [Front Housing](/Changelogs/Front%20Housing.md)
 - #### [Visor](/Changelogs/Visor.md)
-- #### [Headband](/Changelogs/Headband.md)
-- #### [Optics](/Changelogs/Optics.md)
+- #### [Headband](/Changelogs/Headband/Headband.md)
+- #### [Optics](/Changelogs/Optics/Optics.md)
 - #### [Optics Housing](/Changelogs/Optics%20Housing.md)
 - #### [IPD Mechanism](/Changelogs/IPD%20Mechanism.md)
 - #### [IPD PCB](/Changelogs/IPD%20PCB.md)
