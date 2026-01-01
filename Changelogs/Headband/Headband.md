@@ -52,3 +52,4 @@ Very first version of the Headband
  ## Headband no.5
 
 - Add mounting points to the top part of headband
+- Made the strap holes taller
