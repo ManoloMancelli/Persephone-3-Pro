@@ -44,5 +44,10 @@ Very first version of the Headband
 ![1](/Changelogs/Headband/img/3/2.png)
 ![1](/Changelogs/Headband/img/3/3.png)
 ![1](/Changelogs/Headband/img/3/4.png)
+
  ## Headband no.4
+- Made the strap slightly shorter
+
+ ## Headband no.5
+
 - Add mounting points to the top part of headband
