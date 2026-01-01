@@ -52,7 +52,9 @@ Very first version of the Headband
 
  ## Headband no.5
 
-- Add mounting points to the top part of headband
+- Added mounting points to the top part of headband
+
+
 - Add mounting points to the rear part
 - Add gear "endstops" on the straps
 - Made the strap holes taller
