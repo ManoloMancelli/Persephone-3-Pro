@@ -47,6 +47,7 @@ Very first version of the Headband
 
  ## Headband no.4
 - Made the strap slightly shorter
+- Made the strap ridge taller
 
  ## Headband no.5
 
