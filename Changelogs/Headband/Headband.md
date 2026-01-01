@@ -50,6 +50,10 @@ Very first version of the Headband
 - Made the strap ridge taller
 - Added a second strap
 
+![1](/Changelogs/Headband/img/4/1.jpeg)
+![1](/Changelogs/Headband/img/4/2.jpeg)
+![1](/Changelogs/Headband/img/4/3.jpeg)
+
  ## Headband no.5
 
 - Added mounting points to the top part of headband
