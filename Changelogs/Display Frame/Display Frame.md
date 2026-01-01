@@ -6,3 +6,5 @@ Fully 3D printed frame for 2 1440x1440 displays
 
 ![1](/Changelogs/Display%20Frame/img/1/1.jpeg)
 ![1](/Changelogs/Display%20Frame/img/1/2.jpeg)
+
+## Display Frame no. 2
