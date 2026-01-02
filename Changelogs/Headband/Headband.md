@@ -55,10 +55,8 @@ Very first version of the Headband
 ![1](/Changelogs/Headband/img/4/3.jpeg)
 
  ## Headband no.5
+- Added mounting points to the rear part
 
-- Added mounting points to the top part of headband
-
-
-- Add mounting points to the rear part
+- Add mounting points to the top part of headband
 - Add gear "endstops" on the straps
-- Made the strap holes taller
+- Add Driver board mount ot the top part
