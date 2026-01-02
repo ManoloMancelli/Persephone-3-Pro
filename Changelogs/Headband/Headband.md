@@ -60,3 +60,4 @@ Very first version of the Headband
 - Add mounting points to the top part of headband
 - Add gear "endstops" on the straps
 - Add Driver board mount ot the top part
+- Fix the strap geometry
