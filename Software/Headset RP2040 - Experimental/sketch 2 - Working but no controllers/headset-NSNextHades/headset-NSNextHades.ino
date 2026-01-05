@@ -22,7 +22,7 @@
 //==========================================================================================================
 
 #define IMU_ADDRESS     0x68                // You can find it out by using the IMUIdentifier example
-MPU6500 IMU;                                 // IMU type
+MPU9250 IMU;                                 // IMU type
 #define IMU_GEOMETRY 4		//Change to your current IMU geometry (check docs for a reference pic).
 #define CALPIN             99               // Pin to start mag calibration at power on.
 #define EEPROM_CAL                          // Comment this if your MCU doesn't support EEPROM.
