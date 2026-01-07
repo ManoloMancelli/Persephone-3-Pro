@@ -58,8 +58,9 @@ Very first version of the Headband
 - Added mounting points to the rear part
 - Added mounting points to the top part of headband
 - Fixed the strap geometry
+- Added gear "endstops" on the straps
 
 ## TODO
 
-- Add gear "endstops" on the straps
+
 - Add Driver board mount ot the top part
