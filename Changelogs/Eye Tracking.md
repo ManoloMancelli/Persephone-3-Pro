@@ -19,6 +19,15 @@ An ESP32-based board and tiny camera module watches each eyeball, and under IR i
 
 Software takes care of turning the camera’s view of the pupil into a gaze direction value that can be plugged into other software.
 
+##
+
+The project is still under active development, but in its current state is perfectly suitable for creating a functional system
+
+that can integrate into a variety of existing headsets with printed mounting brackets. 
+
+Interested? Check out the intro and if it sounds up your alley, dive into the build guide which spells out everything you need to know.
+
+##
 
 
 
