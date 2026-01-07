@@ -57,6 +57,8 @@ Very first version of the Headband
  ## Headband no.5
 - Added mounting points to the rear part
 
+
+## TODO
 - Add mounting points to the top part of headband
 - Add gear "endstops" on the straps
 - Add Driver board mount ot the top part
