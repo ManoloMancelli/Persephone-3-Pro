@@ -24,6 +24,20 @@ To slim it down you could use a more expensive 120-160 degree camera and lose th
 
 #### Software
 
+The face tracking shown is not calibrated, just what I got when putting on the headset today.
+
+The pi is streaming its video over the network to the Project Babble application. Babble then forwards this to VRChatFaceTracking.
+
+Everything said and done, I'm very happy with the performance and latency and plan to continue daily driving this in VRChat.
+
+#### Keep in mind
+
+Forgive me if someone has posted something similar to this before, the only thing similar to this I've seen on this subreddit has been a closed source custom PCB for Babble.
+
+Some of the parts differ in price depending on the vendor.
+
+Depending on your particular setup you may have better or worse results than I do.
+If people are interested I'll post the code & thingiverse models I used.
 
 
 
