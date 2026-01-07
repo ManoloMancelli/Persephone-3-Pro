@@ -9,6 +9,25 @@ This is a solution I put together using cheap/3D printed hardware. No soldering 
 
 - [Raspberry Pi Zero 2 W](https://www.raspberrypi.com/products/raspberry-pi-zero-2-w/)
 - [Arducam](https://a.co/d/dBf3rPP)
+- [3D Files](https://www.thingiverse.com/)
+
+#### All free and open source software used
+
+- [Project Babble](https://docs.babble.diy/docs/intro)
+- [VRFaceTracking](https://docs.vrcft.io/docs/vrcft-software/vrcft)
+
+The build is incredibly simple, just slide the camera connector into the pi. And pop the components into their cases. I used some random screws in the mounts lol.
+
+You need a micro-usb power source for the raspberry pi, I'm assuming anyone with a wireless PCVR setup has a battery for/on their headset which is what I have mine plugged into.
+
+To slim it down you could use a more expensive 120-160 degree camera and lose the extended mount. And the Arducam actually comes with a shorter ribbon cable but I just don't have it on.
+
+#### Software
+
+
+
+
+
 
 
 
