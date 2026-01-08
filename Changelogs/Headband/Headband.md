@@ -60,9 +60,9 @@ Very first version of the Headband
 - Fixed the strap geometry
 - Added gear "endstops" on the straps
 
-![1](/Mechanical/Headband/img/5/1.jpeg)
-![1](/Mechanical/Headband/img/5/2.jpeg)
-![1](/Mechanical/Headband/img/5/3.jpeg)
+![1](/Changelogs/Headband/img/5/1.jpeg)
+![1](/Changelogs/Headband/img/5/2.jpeg)
+![1](/Changelogs/Headband/img/5/3.jpeg)
 
 ## TODO
 
