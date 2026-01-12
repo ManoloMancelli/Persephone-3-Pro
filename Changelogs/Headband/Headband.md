@@ -64,7 +64,9 @@ Very first version of the Headband
 ![1](/Changelogs/Headband/img/5/2.jpeg)
 ![1](/Changelogs/Headband/img/5/3.jpeg)
 
-## TODO
+## 12.01.2026
+- Added rear headband cover
 
+## TODO
 
 - Add Driver board mount ot the top part
