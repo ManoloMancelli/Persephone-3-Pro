@@ -66,6 +66,8 @@ Very first version of the Headband
 
 ## 12.01.2026
 - Added rear headband cover
+- Made knob slightly longer
+- Improved strap holes on the rear part
 
 ## TODO
 
