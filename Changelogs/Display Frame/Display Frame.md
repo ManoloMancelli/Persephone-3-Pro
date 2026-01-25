@@ -23,6 +23,10 @@ Fully 3D printed frame for 2 1440x1440 displays
 
 ## Display Frame no. 3
 - Added basic Screen Lock
+![1](/Changelogs/Display%20Frame/img/3/1.jpeg)
+
+- Modified Screen Lock into Front Housing
+![1](/Changelogs/Display%20Frame/img/3/2.jpeg)
 
 ## TODO
 - Add mounting points for the front housing
