@@ -64,10 +64,12 @@ Very first version of the Headband
 ![1](/Changelogs/Headband/img/5/2.jpeg)
 ![1](/Changelogs/Headband/img/5/3.jpeg)
 
-## 12.01.2026
+ ## Headband no.6
 - Added rear headband cover
-- Made knob slightly longer
+- Added Knob lock
 - Improved strap holes on the rear part
+![1](/Changelogs/Headband/img/6/1.jpeg)
+![1](/Changelogs/Headband/img/6/2.jpeg)
 
 ## TODO
 
