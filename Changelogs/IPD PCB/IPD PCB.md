@@ -15,3 +15,6 @@ FFC ribbons are now perfectly safe from tearing since there is no stress from an
 
 ## IPD PCB no. 3
 New, experimental PCB which now features built-in gyroscope module
+
+## TODO
+- Solder the IPD PCV no.3
