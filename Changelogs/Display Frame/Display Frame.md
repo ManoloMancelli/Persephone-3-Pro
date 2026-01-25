@@ -25,7 +25,7 @@ Fully 3D printed frame for 2 1440x1440 displays
 - Added basic Screen Lock
 ![1](/Changelogs/Display%20Frame/img/3/1.jpeg)
 
-- Modified Screen Lock into [Front Housing](/Changelogs/Front%20Housing.md)
+- Modified Screen Lock into [Front Housing](/Changelogs/Front%20Housing/Front%20Housing.md)
 
 
 ## TODO
