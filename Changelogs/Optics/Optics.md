@@ -28,7 +28,6 @@ Current stack makes it possible to cover almost whole human FOV. (I have literal
 ![1](/Changelogs/Optics/trim1%20real.jpeg)
 
 ## Lense Setup no.2
- - Made a display simulation jig to test the trim with bigger display
  - Designed a new, smaller trim but with the same FOV
 ![1](/Changelogs/Optics/2.png)
 ![1](/Changelogs/Optics/2a.jpeg)
