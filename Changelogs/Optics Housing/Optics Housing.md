@@ -13,6 +13,9 @@ Very first version of the Optics Housing. Based on the previous Persephone heads
 ![1](/Changelogs/Optics%20Housing/img/2/2.jpeg)
 ![1](/Changelogs/Optics%20Housing/img/2/3.jpeg)
 
+## Optics Housing no. 3
+- Modified the Lense Holder for use with Lense Caps
+
 ## TODO
 - 3D model the Eye Tracking cameras
 - Include the Eye Tracking cameras inside the optics housing
