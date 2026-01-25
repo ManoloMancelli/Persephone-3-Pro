@@ -13,6 +13,7 @@ Fully 3D printed frame for 2 1440x1440 displays
 - Made the top cornes slightly longer than rest of the frame
 - Added mounting points on the top corners
 - Modified the corners near display connectors to be less aggressive
+- Made slightly more space for the IPD PCB near the gyroscope
 
 ## TODO
 - Add mounting points for the front housing
