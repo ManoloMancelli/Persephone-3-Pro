@@ -2,4 +2,5 @@
 Simple 3D printed front piece which closes-up the headset
 
 ## Front Housing no. 1
-- 3D model the initial version
+- Modeled the very first version of the Front Housing
+![1](/Changelogs/Optics%20Housing/img/2/3.jpeg)
