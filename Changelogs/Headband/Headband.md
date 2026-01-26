@@ -73,6 +73,8 @@ Very first version of the Headband
 
  ## Headband no.7
 - Made simple bracket for position and angle calibration
+![1](/Changelogs/Headband/img/7/1.jpeg)
+![1](/Changelogs/Headband/img/7/2.jpeg)
 
 ## TODO
 
