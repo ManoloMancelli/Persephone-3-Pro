@@ -1,6 +1,14 @@
 # Persephone 3 Pro Face Tracking
 Experimental Face Tracking for Persephone 3 Pro
 
+## 26.01.2026
+
+## TODO
+- Find a suitable, small camera
+- Build a prototype with Raspberry Pi or Orange Pi
+
+
+# References
 ## Reddit Face Tracking
 ![1](https://preview.redd.it/25-wireless-face-tracking-for-vrchat-v0-3l1nmbsj7roe1.jpg?width=1080&crop=smart&auto=webp&s=5b24ceb215b9999c73637b9cef15f088f9b3d75e)
 
@@ -39,12 +47,3 @@ Some of the parts differ in price depending on the vendor.
 Depending on your particular setup you may have better or worse results than I do.
 If people are interested I'll post the code & thingiverse models I used.
 
-## 
-
-
-
-
-
-## Face Tracking no. 1
-- Find a suitable, small camera
-- Build a prototype with Raspberry Pi or Orange Pi
