@@ -77,6 +77,8 @@ Very first version of the Headband
 ![1](/Changelogs/Headband/img/7/2.jpeg)
 
 - Applied new offsets to the Headband
+- Added Mipi PCB mount to the Headband
+- Added mounting points for the Front Housing
 
 ## TODO
 
