@@ -8,3 +8,4 @@ Simple 3D printed front piece which closes-up the headset
 
 ## Front Housing no. 2
 - Added mounting points for the Headband
+![1](/Changelogs/Front%20Housing/img/2/1.jpeg)
