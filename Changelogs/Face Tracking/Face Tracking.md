@@ -1,7 +1,10 @@
 # Persephone 3 Pro Face Tracking
 Experimental Face Tracking for Persephone 3 Pro
 
-## 26.01.2026
+## 27.01.2026
+- Installed VRCFaceTracking on Steam
+- Assembled Raspberry Pi Zero and webcam
+
 
 ## TODO
 - Find a suitable, small camera
