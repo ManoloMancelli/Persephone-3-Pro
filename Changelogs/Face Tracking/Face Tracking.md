@@ -16,6 +16,7 @@ Experimental Face Tracking for Persephone 3 Pro
 
 #
 #
+#
 ## Hardware
 
 ### - Recommended - [XIAO ESP32-S3 Sense Modules]()
