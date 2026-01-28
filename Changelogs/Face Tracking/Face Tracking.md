@@ -13,6 +13,7 @@ Experimental Face Tracking for Persephone 3 Pro
 
 ## TODO
 - Build a prototype using ESP32CAM
+- Reverse-engineer the ESP32CAM board
 
 #
 #
