@@ -11,6 +11,8 @@ Experimental Face Tracking for Persephone 3 Pro
 
 #### There is built-in support for eye tracking as well and GUI looks way better.
 
+## TODO
+- Build a prototype using ESP32CAM
 
 ## Hardware
 
