@@ -42,7 +42,7 @@ Experimental Face Tracking for Persephone 3 Pro
 
 ## Lighting
 
-For Project Babble, you can use either Infrared or visible light. Each has its advantages and considerations
+#### For Project Babble, you can use either Infrared or visible light. Each has its advantages and considerations
 
 ### Infrared Lighting:
 
