@@ -83,6 +83,10 @@ Very first version of the Headband
 ![1](/Changelogs/Headband/img/7/4.jpeg)
 ![1](/Changelogs/Headband/img/7/5.jpeg)
 
+ ## Headband no.8
+ - Improved the Knob Gear
+ ![1](/Changelogs/Headband/img/8/1.jpeg)
+
 
 ## TODO
 
