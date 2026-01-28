@@ -87,6 +87,8 @@ Very first version of the Headband
  - Improved the Knob Gear
  ![1](/Changelogs/Headband/img/8/1.jpeg)
 
+- Fixed the geometry near the MIPI PCB bracket
+- Improved the MIPI PCB mounting points
 
 ## TODO
 
