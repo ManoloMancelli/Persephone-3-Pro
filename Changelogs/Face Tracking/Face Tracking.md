@@ -66,5 +66,13 @@ Experimental Face Tracking for Persephone 3 Pro
 
 ### - Resistor Requirements
 
+- For 3.3V power: Use 82-ohm resistors in series with the LEDs
+- For 5V power: Use 160-ohm resistors in series with the LEDs
+
+### - Wiring
+
+![1](https://docs.babble.diy/assets/images/babbleWiringGuide-82d4c4148e31022efda3133f4f478d04.png)
+
+
 ## TODO
 - Build a prototype with Raspberry Pi or Orange Pi
