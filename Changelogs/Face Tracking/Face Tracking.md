@@ -14,6 +14,7 @@ Experimental Face Tracking for Persephone 3 Pro
 ## TODO
 - Build a prototype using ESP32CAM
 
+#
 ## Hardware
 
 ### - Recommended - [XIAO ESP32-S3 Sense Modules]()
