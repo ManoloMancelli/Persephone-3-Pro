@@ -73,6 +73,16 @@ Experimental Face Tracking for Persephone 3 Pro
 
 ![1](https://docs.babble.diy/assets/images/babbleWiringGuide-82d4c4148e31022efda3133f4f478d04.png)
 
+## Camera
+
+### - Recommended [OV2640 160° FOV IR / Night Version (850nm)](https://www.aliexpress.com/item/3256802853835121.html)
+
+- Ideal for use with infrared lighting. firmware cropping is recommended.
+
+### - Alternative [OV2640 120° FOV (Requires Manual IR Filter Removal)](https://www.aliexpress.com/item/3256804332354572.html)
+
+- A solid choice, but you'll need to remove the IR filter if using infrared lighting.
+
 
 ## TODO
-- Build a prototype with Raspberry Pi or Orange Pi
+- Build a prototype
