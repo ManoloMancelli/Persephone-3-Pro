@@ -12,3 +12,5 @@ Simple 3D printed front piece which closes-up the headset
 
 ## Front Housing no. 3
 - Added MIPI PCB FFC slot on top
+![1](/Changelogs/Front%20Housing/img/3/1.jpeg)
+![1](/Changelogs/Front%20Housing/img/3/2.jpeg)
