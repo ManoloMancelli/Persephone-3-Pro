@@ -40,5 +40,21 @@ Experimental Face Tracking for Persephone 3 Pro
   
 - May need soldering to attach external antennas.
 
+## Lighting
+
+For Project Babble, you can use either Infrared or visible light. Each has its advantages and considerations
+
+### Infrared Lighting:
+
+- Less distracting as the light is not visible to the naked eye.
+
+- Susceptible to flicker from base stations if not sufficiently bright
+
+### Visible Lighting:
+
+- Immune to base station flicker.
+
+- Potential for distraction if the headset doesn't block light effectively.
+
 ## TODO
 - Build a prototype with Raspberry Pi or Orange Pi
