@@ -44,17 +44,27 @@ Experimental Face Tracking for Persephone 3 Pro
 
 #### For Project Babble, you can use either Infrared or visible light. Each has its advantages and considerations
 
-### Infrared Lighting:
+### [Infrared Lighting](https://www.aliexpress.us/item/3256803759925241.html?)
 
 - Less distracting as the light is not visible to the naked eye.
 
 - Susceptible to flicker from base stations if not sufficiently bright
 
-### Visible Lighting:
+### [Visible Lighting](https://www.aliexpress.us/item/3256807891285585.html)
 
 - Immune to base station flicker.
 
 - Potential for distraction if the headset doesn't block light effectively.
+
+## [USB HUB](https://www.aliexpress.com/item/3256804584900810.html)
+
+## Wiring guide for Seeed XIAO ESP32-S3
+
+- Either 3.3V or 5V can be used to power the LEDs.
+- 3.3V is compatible with both USB and battery power.
+- 5V can only be used when the ESP32 is powered via USB
+
+### - Resistor Requirements
 
 ## TODO
 - Build a prototype with Raspberry Pi or Orange Pi
