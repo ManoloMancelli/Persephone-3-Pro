@@ -89,7 +89,10 @@ Very first version of the Headband
 
 - Fixed the geometry near the MIPI PCB bracket
 - Improved the MIPI PCB mounting points
+ ![1](/Changelogs/Headband/img/8/2.jpeg)
+ ![1](/Changelogs/Headband/img/8/3.jpeg)
 
 ## TODO
 
 - Add Driver board mount ot the top part
+- Add Mipi PCB cover
