@@ -92,6 +92,9 @@ Very first version of the Headband
  ![1](/Changelogs/Headband/img/8/2.jpeg)
  ![1](/Changelogs/Headband/img/8/3.jpeg)
 
+## Headband no.9
+- Adjusted the mounting points
+
 ## TODO
 
 - Add Mipi PCB cover
