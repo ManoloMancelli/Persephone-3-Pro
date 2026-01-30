@@ -94,5 +94,4 @@ Very first version of the Headband
 
 ## TODO
 
-- Add Driver board mount ot the top part
 - Add Mipi PCB cover
