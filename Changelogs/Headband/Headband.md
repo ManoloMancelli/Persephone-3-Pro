@@ -98,5 +98,8 @@ Very first version of the Headband
 ## 07.02.2026
 - Added initial MIPI PCB cover
 - Added tracker mount on the Mipi PCB cover
+ ![1](/Changelogs/Headband/img/07.02.2026/1.jpeg)
+ ![1](/Changelogs/Headband/img/07.02.2026/2.jpeg)
+ ![1](/Changelogs/Headband/img/07.02.2026/3.jpeg) 
 
 ## TODO
