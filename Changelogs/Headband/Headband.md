@@ -102,4 +102,11 @@ Very first version of the Headband
  ![1](/Changelogs/Headband/img/07.02.2026/2.jpeg)
  ![1](/Changelogs/Headband/img/07.02.2026/3.jpeg) 
 
+- Modified the MIPI PCB cover to fit on top of the Headband
+- Added mounting points for the MIPI PCB cover
+ ![1](/Changelogs/Headband/img/07.02.2026/4.jpeg) 
+ ![1](/Changelogs/Headband/img/07.02.2026/5.jpeg) 
+ ![1](/Changelogs/Headband/img/07.02.2026/6.jpeg) 
+ ![1](/Changelogs/Headband/img/07.02.2026/7.jpeg) 
+ 
 ## TODO
