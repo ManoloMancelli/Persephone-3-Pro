@@ -5,7 +5,7 @@ Experimental Face Tracking for Persephone 3 Pro
 - Installed VRCFaceTracking on Steam
 - Assembled Raspberry Pi Zero and webcam
 - Installed [Project Babble](https://github.com/Project-Babble/ProjectBabble/releases/latest)
-- Installef [Baballonia](https://github.com/Project-Babble/Baballonia/releases/latest)
+- Installed [Baballonia](https://github.com/Project-Babble/Baballonia/releases/latest)
 
 #### - Baballonia seems to be more robust than Project Babble itself.
 
@@ -18,6 +18,7 @@ Experimental Face Tracking for Persephone 3 Pro
 ## 07.02.2026
 - Desoldered the ESP32-CAM pins
 ![1](/Changelogs/Face%20Tracking/img/07.02.2026/1.jpeg)
+
 
 ## TODO
 - Build a prototype using ESP32CAM
