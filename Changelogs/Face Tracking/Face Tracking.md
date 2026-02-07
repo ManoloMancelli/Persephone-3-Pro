@@ -26,7 +26,7 @@ Experimental Face Tracking for Persephone 3 Pro
 - Installed Platformio IDE Extension under VSCode
 - Downloaded Git For Windows
 - Cloned OpenIris repo
-- #### Using Arduino Uno Mini as programmer doesn't seem to work
+- ### Using Arduino Uno Mini as programmer doesn't seem to work
 
 ## TODO
 - Build a prototype using ESP32CAM
