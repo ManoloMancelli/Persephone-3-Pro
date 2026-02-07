@@ -14,6 +14,9 @@ Experimental Face Tracking for Persephone 3 Pro
 ## 04.02.2026
 - Bought the ESP32-CAM module
 
+## 07.02.2026
+- Desoldered the ESP32-CAM pins
+
 ## TODO
 - Build a prototype using ESP32CAM
 - Reverse-engineer the ESP32CAM board
