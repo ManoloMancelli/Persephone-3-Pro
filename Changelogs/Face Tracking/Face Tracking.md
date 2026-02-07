@@ -19,6 +19,10 @@ Experimental Face Tracking for Persephone 3 Pro
 - Desoldered the ESP32-CAM pins
 ![1](/Changelogs/Face%20Tracking/img/07.02.2026/1.jpeg)
 
+- Connected ESP32-CAM to Arduino Uno Mini
+![1](/Changelogs/Face%20Tracking/img/07.02.2026/2.jpeg)
+
+- Installed the VSCode
 
 ## TODO
 - Build a prototype using ESP32CAM
