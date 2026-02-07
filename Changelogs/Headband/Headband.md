@@ -95,6 +95,9 @@ Very first version of the Headband
 ## Headband no.9
 - Adjusted the mounting points
 
+## 07.02.2026
+- Added initial MIPI PCB cover
+
 ## TODO
 
 - Add Mipi PCB cover
