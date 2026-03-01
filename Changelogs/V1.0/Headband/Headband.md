@@ -108,5 +108,3 @@ Very first version of the Headband
  ![1](/Changelogs/V1.0/Headband/img/07.02.2026/5.jpeg) 
  ![1](/Changelogs/V1.0/Headband/img/07.02.2026/6.jpeg) 
  ![1](/Changelogs/V1.0/Headband/img/07.02.2026/7.jpeg) 
- 
-## TODO
