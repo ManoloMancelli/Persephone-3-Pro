@@ -18,8 +18,3 @@ Very first version of the Optics Housing. Based on the previous Persephone heads
 - Added Lense Caps
 ![1](/Changelogs/V1.0/Optics%20Housing/img/3/1.jpeg)
 ![1](/Changelogs/V1.0/Optics%20Housing/img/3/2.jpeg)
-
-## TODO
-- 3D model the Eye Tracking cameras
-- Include the Eye Tracking cameras inside the optics housing
-- Move the lenses more to the sides for more IPD range
