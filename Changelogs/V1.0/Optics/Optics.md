@@ -23,12 +23,12 @@ Trim was designed in such a way to remove as much plastic as possible, without c
 
 Current stack makes it possible to cover almost whole human FOV. (I have literally one set of eyes in my head so I can't verify this)
 
-![1](/Changelogs/Optics/trim%201.png)
+![1](/Changelogs/V1.0/Optics/trim%201.png)
 
-![1](/Changelogs/Optics/trim1%20real.jpeg)
+![1](/Changelogs/V1.0/Optics/trim1%20real.jpeg)
 
 ## Lense Setup no.2
  - Designed a new, smaller trim but with the same FOV
-![1](/Changelogs/Optics/2.png)
-![1](/Changelogs/Optics/2a.jpeg)
-![1](/Changelogs/Optics/2b.jpeg)
+![1](/Changelogs/V1.0/Optics/2.png)
+![1](/Changelogs/V1.0/Optics/2a.jpeg)
+![1](/Changelogs/V1.0/Optics/2b.jpeg)
