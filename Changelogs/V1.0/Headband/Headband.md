@@ -20,7 +20,7 @@ Very first version of the Headband
 
  - Refined the CAD model to simpler shape
  
- ![1](/Changelogs/Headband/img/1/1.png)
+ ![1](/Changelogs/V1.0/Headband/img/1/1.png)
  
  ## Headband no.2
  
@@ -30,8 +30,8 @@ Very first version of the Headband
  - Added the knob and gear
  - Added gear teeth to the strap
  
- ![1](/Changelogs/Headband/img/2/0.png)
- ![1](/Changelogs/Headband/img/2/1.png)
+ ![1](/Changelogs/V1.0/Headband/img/2/0.png)
+ ![1](/Changelogs/V1.0/Headband/img/2/1.png)
  
  ## Headband no.3
  
@@ -40,19 +40,19 @@ Very first version of the Headband
 - Adjusted the Strap holes on the rear part
 - Added the guide ridges on the strap
 - Rounded the edges of the back part
-![1](/Changelogs/Headband/img/3/1.png)
-![1](/Changelogs/Headband/img/3/2.png)
-![1](/Changelogs/Headband/img/3/3.png)
-![1](/Changelogs/Headband/img/3/4.png)
+![1](/Changelogs/V1.0/Headband/img/3/1.png)
+![1](/Changelogs/V1.0/Headband/img/3/2.png)
+![1](/Changelogs/V1.0/Headband/img/3/3.png)
+![1](/Changelogs/V1.0/Headband/img/3/4.png)
 
  ## Headband no.4
 - Made the strap slightly shorter
 - Made the strap ridge taller
 - Added a second strap
 
-![1](/Changelogs/Headband/img/4/1.jpeg)
-![1](/Changelogs/Headband/img/4/2.jpeg)
-![1](/Changelogs/Headband/img/4/3.jpeg)
+![1](/Changelogs/V1.0/Headband/img/4/1.jpeg)
+![1](/Changelogs/V1.0/Headband/img/4/2.jpeg)
+![1](/Changelogs/V1.0/Headband/img/4/3.jpeg)
 
  ## Headband no.5
 - Added mounting points to the rear part
@@ -60,37 +60,37 @@ Very first version of the Headband
 - Fixed the strap geometry
 - Added gear "endstops" on the straps
 
-![1](/Changelogs/Headband/img/5/1.jpeg)
-![1](/Changelogs/Headband/img/5/2.jpeg)
-![1](/Changelogs/Headband/img/5/3.jpeg)
+![1](/Changelogs/V1.0/Headband/img/5/1.jpeg)
+![1](/Changelogs/V1.0/Headband/img/5/2.jpeg)
+![1](/Changelogs/V1.0/Headband/img/5/3.jpeg)
 
  ## Headband no.6
 - Added rear headband cover
 - Added Knob lock
 - Improved strap holes on the rear part
-![1](/Changelogs/Headband/img/6/1.jpeg)
-![1](/Changelogs/Headband/img/6/2.jpeg)
+![1](/Changelogs/V1.0/Headband/img/6/1.jpeg)
+![1](/Changelogs/V1.0/Headband/img/6/2.jpeg)
 
  ## Headband no.7
 - Made simple bracket for position and angle calibration
-![1](/Changelogs/Headband/img/7/1.jpeg)
-![1](/Changelogs/Headband/img/7/2.jpeg)
+![1](/Changelogs/V1.0/Headband/img/7/1.jpeg)
+![1](/Changelogs/V1.0/Headband/img/7/2.jpeg)
 
 - Applied new offsets to the Headband
 - Added Mipi PCB mount to the Headband
 - Added mounting points for the Front Housing
-![1](/Changelogs/Headband/img/7/3.jpeg)
-![1](/Changelogs/Headband/img/7/4.jpeg)
-![1](/Changelogs/Headband/img/7/5.jpeg)
+![1](/Changelogs/V1.0/Headband/img/7/3.jpeg)
+![1](/Changelogs/V1.0/Headband/img/7/4.jpeg)
+![1](/Changelogs/V1.0/Headband/img/7/5.jpeg)
 
  ## Headband no.8
  - Improved the Knob Gear
- ![1](/Changelogs/Headband/img/8/1.jpeg)
+ ![1](/Changelogs/V1.0/Headband/img/8/1.jpeg)
 
 - Fixed the geometry near the MIPI PCB bracket
 - Improved the MIPI PCB mounting points
- ![1](/Changelogs/Headband/img/8/2.jpeg)
- ![1](/Changelogs/Headband/img/8/3.jpeg)
+ ![1](/Changelogs/V1.0/Headband/img/8/2.jpeg)
+ ![1](/Changelogs/V1.0/Headband/img/8/3.jpeg)
 
 ## Headband no.9
 - Adjusted the mounting points
@@ -98,15 +98,15 @@ Very first version of the Headband
 ## 07.02.2026
 - Added initial MIPI PCB cover
 - Added tracker mount on the Mipi PCB cover
- ![1](/Changelogs/Headband/img/07.02.2026/1.jpeg)
- ![1](/Changelogs/Headband/img/07.02.2026/2.jpeg)
- ![1](/Changelogs/Headband/img/07.02.2026/3.jpeg) 
+ ![1](/Changelogs/V1.0/Headband/img/07.02.2026/1.jpeg)
+ ![1](/Changelogs/V1.0/Headband/img/07.02.2026/2.jpeg)
+ ![1](/Changelogs/V1.0/Headband/img/07.02.2026/3.jpeg) 
 
 - Modified the MIPI PCB cover to fit on top of the Headband
 - Added mounting points for the MIPI PCB cover
- ![1](/Changelogs/Headband/img/07.02.2026/4.jpeg) 
- ![1](/Changelogs/Headband/img/07.02.2026/5.jpeg) 
- ![1](/Changelogs/Headband/img/07.02.2026/6.jpeg) 
- ![1](/Changelogs/Headband/img/07.02.2026/7.jpeg) 
+ ![1](/Changelogs/V1.0/Headband/img/07.02.2026/4.jpeg) 
+ ![1](/Changelogs/V1.0/Headband/img/07.02.2026/5.jpeg) 
+ ![1](/Changelogs/V1.0/Headband/img/07.02.2026/6.jpeg) 
+ ![1](/Changelogs/V1.0/Headband/img/07.02.2026/7.jpeg) 
  
 ## TODO
