@@ -4,7 +4,7 @@ Persephone 3 Pro is a DiY SteamVR headset which features full Lighthouse trackin
 
 ### Releases
 - #### [Persephone 3 Pro 1.0](/Releases/1.0/1.0.md)
-- #### [Persephone 3 Pro 1.1 - Wip]()
+- #### [Persephone 3 Pro 1.1 - Wip](/Releases/1.1/1.1.md)
 
 ### Tutorials
 - #### [SteamVR Tracking Override](/Tutorials/SteamVR%20Tracking%20Override/SteamVR%20Tracking%20Override.md)
