@@ -2,6 +2,8 @@
 
 Persephone 3 Pro is a DiY SteamVR headset which features full Lighthouse tracking (6DoF), pseudo-pancake lenses and 1440x1440 resolution per eye.
 
+![1](/Releases/1.0/img/1.jpeg)
+
 ### Releases
 - #### [Persephone 3 Pro 1.0](/Releases/1.0/1.0.md)
 - #### [Persephone 3 Pro 1.1 - Wip](/Releases/1.1/1.1.md)
